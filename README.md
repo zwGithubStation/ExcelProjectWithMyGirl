@@ -26,15 +26,15 @@ Finally initiate my promise of studying Excel systematically(mainly by books); a
 ## 候选材料：  
 之前经一些挑选，pass了一些大部头，主要着眼于以下几本：  
  
-**Excel最强教科书[完整版]**  
+**《Excel最强教科书[完整版]》**  
 中规中矩的模范教科书，日文原版翻译，从排版规范开始逐步引导，每章节以多个小条目的形式介绍一组相关的特性/规范   
 ![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/first-best.png)
 
-**Excel之光 高效工作的Excel完全手册**   
+**《Excel之光 高效工作的Excel完全手册》**   
 国内Word教育机构讲师所著，组织形式类似上本书，在后几章节介绍了数据可视化的一些内容   
 ![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/light.jpg)   
 
-**Excel函数与公式应用大全**  
+**《Excel函数与公式应用大全》**  
 2020.5新出版，教育机构挂名出版，主要着眼于Excel公式/函数的实战使用讲解，配图和操作步骤详实
 ![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/first-to-learn.png)
 
