@@ -1,5 +1,5 @@
 # Project Intro
-Finally initiate my promise of studying Excel systematically(mainly by books); and also as a personal platform to express feelings(with my girl) about something meaningful/intreasting occurs to myself 
+Finally initiate my promise of studying Excel systematically(mainly by books); and also as a personal platform to express feelings with my girl about something meaningful/intreasting occurs to myself. 
 
 # 于前：   
 
