@@ -39,4 +39,5 @@ Finally initiate my promise of studying Excel systematically(mainly by books); a
 ![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/first-to-learn.png)
 
 ## 一阶段计划(updated at 8.14夜, 2020)  
-鉴于实践性和可用性角度考虑，首先进行《Excel函数与公式应用大全》的学习与总结记录，计划10个章节分十天完成(08.15-08.24),按当前每日时间结余来看，大抵只能排在夜间0:00~2:00左右，周末可以适当拉长并refine。
+&ensp;&ensp;&ensp;&ensp;鉴于实践性和可用性角度考虑，首先进行《Excel函数与公式应用大全》的学习与总结记录，计划10个章节分十天完成(08.15-08.24),按当前每日时间结余来看，大抵只能排在夜间0:00~2:00左右，周末可以适当拉长并refine.   
+&ensp;&ensp;&ensp;&ensp;今日刷新至此，跟YJ小姐道晚安已经过了2h了，12点时她说老板夜里突然发了消息安排任务，让她一下子精神地没了困意，想必这会儿已经入睡了吧~ 每晚能道一句"好梦"给她，着实是无比幸福的事情，希望她明天不会有太多困扰，诸事顺利哈哈~ 此刻真的晚安啦YJ小姐~
