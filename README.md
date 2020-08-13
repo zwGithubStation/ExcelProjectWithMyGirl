@@ -39,4 +39,4 @@ Finally initiate my promise of studying Excel systematically(mainly by books); a
 ![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/first-to-learn.png)
 
 ## 一阶段计划(updated at 8.14夜, 2020)  
-鉴于实践性和可用性角度考虑，首先进行《Excel函数与公式应用大全》的学习与总结记录，计划10个章节分十天完成(08.15-08.24),当前时间来看，大抵只能排在夜间0:00~2:00左右，周末可以适当拉长并refine。
+鉴于实践性和可用性角度考虑，首先进行《Excel函数与公式应用大全》的学习与总结记录，计划10个章节分十天完成(08.15-08.24),按当前每日时间结余来看，大抵只能排在夜间0:00~2:00左右，周末可以适当拉长并refine。
