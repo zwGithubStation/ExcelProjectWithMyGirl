@@ -28,4 +28,6 @@ Finally initiate my promise of studying Excel systematically(mainly by books); a
  
 **Excel最强教科书[完整版]**  
 
-![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/s32316996.jpg)
+![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/s33297015.jpg)
+https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/s32316996.jpg
+
