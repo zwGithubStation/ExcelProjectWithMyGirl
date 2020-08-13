@@ -1,2 +1,17 @@
-# ExcelProjectWithMyGirl
-finally initiate my promise of studying Excel systematically(mainly by books)，and also as a personal platform to express my feelings(with my girl)
+# Project Intro
+Finally initiate my promise of studying Excel systematically(mainly by books); and also as a personal platform to express feelings(with my girl) about something meaningful/intreasting occurs to myself 
+
+# 于前：   
+
+## 初衷： 
+关于excel的书籍，可以用汗牛充栋来形容了，但作为一个轻度使用者，却并没有做过系统性的学习(抑或是掌握某方面的一些技巧)，算来还是个小白级选手，在艺多不压身的今日，的确有学习下的必要；再一方面回顾工作中涉及excel使用的一些场景，的的确确存在可以优化效率的空间：
+e.g. 
+例子1.做一个业务IO在各个模块的时间消耗分析，在由日志获取各个模块的[进入时间点、离开时间点]信息后，只能笨拙的逐条信息相减，各个模块间的差异，没有能力通过明显的图示形式体现出来(使用了色彩标注的形式，把时长较长的条目背景色标深.....)，耗时耗力且不客观；        
+例子2.梳理XX代码脚本流程，该流程分5个模块，每个模块涉及15~30不等的shell脚本，虽然最终做的是文字性梳理的罗列(条目>200)，但如果有好的排版方式[能体现所属大模块/所属小模块/各个脚本顺序性等关联关系]，则可以作为示范性的交接文件流传下去(惭愧，被人修改后才被别人广泛使用，虽然注名还是本人...)    
+
+所以无论是技术上的优化还是排版上的严谨性，都有很大的进步空间，但鉴于该技能并非高强度使用，所以一直未能有效系统学习，一些技巧也未能记录长久驻存脑中，故还是计划系统性的研读下挑选的技术书籍，想必可以长利于今后。  
+当然，一直应承YJ小姐有机会讨论下这方面的问题，如果自己一直白脖下去，岂不冷了YJ小姐的心，如此万万不可，必须学习~   
+
+## 候选材料：  
+之前经一些挑选，pass了一些大部头，主要着眼于以下几本：  
+ 
