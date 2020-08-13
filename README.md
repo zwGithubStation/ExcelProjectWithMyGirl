@@ -27,3 +27,5 @@ Finally initiate my promise of studying Excel systematically(mainly by books); a
 之前经一些挑选，pass了一些大部头，主要着眼于以下几本：  
  
 **Excel最强教科书[完整版]**  
+
+![Image text](https://raw.githubusercontent.com/zwGithubStation/ExcelProjectWithMyGirl/master/img-folder/s32316996.jpg)
